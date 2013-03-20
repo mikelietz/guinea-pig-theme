@@ -3,11 +3,11 @@
 	<name>Guinea Pig Theme</name>
 	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
 	<author url="http://mikelietz.org">Mike Lietz</author>
-	<url>http://asymptomatic.net</url>
+	<url>http://github.com/mikelietz/guinea-pig-theme/</url>
 	<version>1.0</version>
 	<template_engine>rawphpengine</template_engine>
-	<description><![CDATA[This is a child of a simple, open theme.]]></description>
-	<parent>Not Wazi</parent>
+	<description><![CDATA[This is not a real theme. It is used for testing only.]]></description>
+	<parent>Wazi</parent>
 	<guid>ef827f46-d690-4dcd-a49b-4588b6d57f83</guid>
 	<areas>
 		<area name="sidebar">
