@@ -4,7 +4,7 @@
 	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
 	<author url="http://mikelietz.org">Mike Lietz</author>
 	<url>http://github.com/mikelietz/guinea-pig-theme/</url>
-	<version>1.1</version>
+	<version>1.1.1</version>
 	<template_engine>rawphpengine</template_engine>
 	<description><![CDATA[This is not a real theme. It is used for testing only.]]></description>
 	<parent>TwentyThirteen</parent>
